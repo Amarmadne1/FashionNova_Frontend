@@ -544,9 +544,9 @@ if(!jwt){
         </section>
 
         {/* similer product */}
-        <section className=" pt-10">
+        <section className="pt-10">
           <h1 className="py-5 text-xl font-bold">Similer Products</h1>
-          <div className="lg:col-span-4 w-full ">
+          <div className="lg:col-span-4 w-full py-5 border">
                   <div className="flex flex-wrap justify-center bg-white border py-5 rounded-md ">
                     {customersProduct?.products?.content?.map((item) => (
                       <SimiliarProductSection product={item} />

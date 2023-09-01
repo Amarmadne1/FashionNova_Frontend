@@ -9,7 +9,7 @@ const SimiliarProductCard = ({ product }) => {
     <div
       onClick={() => navigate(`/product/${product?.id}`)}
       
-      className="cursor-pointer flex flex-col items-center bg-white rounded-lg shadow-xl overflow-hidden w-[15rem] mx-3"
+      className="cursor-pointer flex flex-col items-center bg-white border rounded-lg shadow-2xl overflow-hidden w-[15rem] mx-3 my-3"
     >
       <div className="h-[13rem] w-[10rem]">
         <img 

@@ -36,7 +36,7 @@ export default function Navigation() {
   const jwt = localStorage.getItem("jwt");
   const location = useLocation();
 
-  const { isLoggedIn, setIsLoggedIn, show, setShow, searchResults, setSearchResults,searchText, setSearchText } = useContext(UserContext);
+  const { searchResults, setSearchResults,searchText, setSearchText } = useContext(UserContext);
 
   useEffect(() => {
     if (jwt) {
@@ -185,7 +185,7 @@ export default function Navigation() {
                               key={item.name}
                               className="group relative text-sm"
                             >
-                              <div className="aspect-h-1 aspect-w-1 overflow-hidden rounded-lg bg-gray-100 group-hover:opacity-75">
+                              <div className="aspect-h-1 aspect-w-1 h-1/2 overflow-hidden rounded-lg bg-gray-100 group-hover:opacity-75">
                                 <img
                                   src={item.imageSrc}
                                   alt={item.imageAlt}
@@ -256,7 +256,7 @@ export default function Navigation() {
           </div>
         </Dialog>
       </Transition.Root>
-
+{/* mobilemenu  ends*/}
       <header className="relative bg-white">
         <p className="flex h-10 items-center justify-center bg-indigo-600 px-4 text-sm font-medium text-white sm:px-6 lg:px-8">
           Get free delivery on orders over ₹100
@@ -387,7 +387,7 @@ export default function Navigation() {
                                                       close
                                                     )
                                                   }
-                                                  className="cursor-pointer hover:text-gray-800"
+                                                  className="cursor-pointer hover:text-indigo-600"
                                                 >
                                                   {item.name}
                                                 </p>
@@ -489,9 +489,7 @@ export default function Navigation() {
                           "aria-labelledby": "basic-button",
                         }}
                       >
-                        <MenuItem onClick={handleCloseUserMenu}>
-                          Profile
-                        </MenuItem>
+                      
 
                         <MenuItem onClick={handleMyOrderClick}>
                           My Orders

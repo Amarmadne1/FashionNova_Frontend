@@ -6,8 +6,8 @@ export const navigation = {
         featured: [
           {
             name: 'New Arrivals',
-            href: '/',
-            imageSrc: 'https://tailwindui.com/img/ecommerce-images/mega-menu-category-01.jpg',
+            href: '/product/290',
+            imageSrc: 'https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/y/g/m/l-sleeveless-shset95222-shae-by-sassafras-original-imaggjzkwyyyezzg.jpeg?q=70',
             imageAlt: 'Models sitting back to back, wearing Basic Tee in black and bone.',
           },
           {
@@ -22,13 +22,13 @@ export const navigation = {
             id: 'clothing',
             name: 'Clothing',
             items: [
-              { name: 'Tops', id:"top"},
-              { name: 'Dresses', id:"women_dress" },
-              { name: 'Women Jeans', id: 'women_jeans' },
-              { name: 'Lengha Choli', id: 'lengha_choli' },
+              { name: 'Tops', id:"tops"},
+              { name: 'Dresses', id:"women dress" },
+              { name: 'Women Jeans', id: 'women jeans' },
+              { name: 'Lengha Choli', id: 'lengha choli' },
               { name: 'Gouns', id: 'gouns' },
-              { name: 'Sarees', id: 'saree' },
-              { name: 'Kurtas', id: 'kurtas' },
+              { name: 'Sarees', id: 'sarees' },
+              { name: 'Kurtas', id: 'women kurtas' },
             ],
           },
           {
@@ -79,9 +79,9 @@ export const navigation = {
             id: 'clothing',
             name: 'Clothing',
             items: [
-              { name: 'Mens Kurtas', id: 'mens_kurta' },
-              { name: 'Shirt', id: 'shirt' },
-              { name: 'Men Jeans', id: 'men_jeans' },
+              { name: 'Mens Kurtas', id: 'men kurtas' },
+              { name: 'Shirt', id: 'shirts' },
+              { name: 'Men Jeans', id: 'men jeans' },
                        
             ],
           },
@@ -109,7 +109,7 @@ export const navigation = {
       },
     ],
     pages: [
-      { name: 'Kids', id: '/' },
-      { name: 'Furnitures', id: '/' },
+      { name: 'Company', id: '/' },
+      { name: 'Store', id: '/' },
     ],
   }

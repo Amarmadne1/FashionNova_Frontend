@@ -11,7 +11,10 @@ import {
   UPDATE_CART_ITEM_FAILURE,
   UPDATE_CART_ITEM_REQUEST,
   UPDATE_CART_ITEM_SUCCESS,
-} from "./ActionType";
+  EMPTY_CART_REQUEST,
+  EMPTY_CART_SUCCESS,
+  EMPTY_CART_FAILURE,
+  } from "./ActionType";
 
 const initialState = {
   cart: null,
@@ -79,9 +82,48 @@ const cartReducer = (state = initialState, action) => {
         error: action.payload,
         loading: false,
       };
+      case EMPTY_CART_REQUEST:
+
+      return {
+
+        ...state,
+
+        loading: true,
+
+        error: null,
+
+      };
+
+    case EMPTY_CART_SUCCESS:
+
+      return {
+
+        ...state,
+
+        loading: false,
+
+      };
+
+    case EMPTY_CART_FAILURE:
+
+      return {
+
+        ...state,
+
+        loading: false,
+
+        error: action.error,
+
+      };
+
     default:
+
       return state;
+   
   }
 };
 
 export default cartReducer;
+
+
+

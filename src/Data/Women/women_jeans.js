@@ -24,7 +24,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -52,7 +52,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -80,7 +80,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -108,7 +108,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -136,7 +136,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -164,7 +164,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -192,7 +192,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -220,7 +220,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -248,7 +248,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -276,7 +276,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -304,7 +304,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -332,7 +332,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -360,7 +360,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -388,7 +388,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -416,7 +416,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -444,7 +444,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -472,7 +472,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -500,7 +500,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -528,7 +528,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -556,7 +556,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -584,7 +584,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -612,7 +612,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -639,7 +639,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -667,7 +667,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -695,7 +695,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -723,7 +723,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -751,7 +751,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -779,7 +779,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -807,7 +807,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -835,7 +835,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -863,7 +863,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -891,7 +891,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -919,7 +919,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -947,7 +947,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -975,7 +975,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1003,7 +1003,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1031,7 +1031,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1059,7 +1059,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1087,7 +1087,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     },
     {
@@ -1115,7 +1115,7 @@ export const women_jeans=[
           "quantity": 100,
           "topLavelCategory": "Women",
           "secondLavelCategory": "Clothing",
-          "thirdLavelCategory": "women_jeans",
+          "thirdLavelCategory": "women jeans",
           "description":"A traditional garment embodying elegance and grace. Crafted from fine fabrics, it features intricate embroidery and a relaxed fit, providing comfort and style."
     }
 ]

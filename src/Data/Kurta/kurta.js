@@ -10,7 +10,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/2/l/r/l-6909-blue-libas-original-imafygzxftqzszfx-bb.jpeg?q=70",
@@ -23,7 +23,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/l3t2fm80/ethnic-set/o/q/7/m-9kbd183-samah-original-imageuh5a8hgwusj.jpeg?q=70",
@@ -36,7 +36,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/l2z26q80/ethnic-set/s/n/m/xxl-blue-indigoset-klosia-original-image7c4dckmy2tt.jpeg?q=70",
@@ -49,7 +49,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/l0mr7gw0/ethnic-set/e/r/w/m-palazoo-set-kenix-world-original-imagcdtgpszm7cdy.jpeg?q=70",
@@ -62,7 +62,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/c/t/z/l-vj-1-maroon-dupatta-set-prisca-original-imagb7evryurffsz-bb.jpeg?q=70",
@@ -75,7 +75,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/l4u7vrk0/ethnic-set/u/h/4/m-e916-the-style-story-original-imagfmqguehvhen3.jpeg?q=70",
@@ -88,7 +88,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/j/t/a/xl-mk-01-peech-marudhara-original-imagzwze8huxjfgf.jpeg?q=70",
@@ -101,7 +101,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/l/7/u/l-vfku1833skd-vbuyz-original-imaggtqkmyvjzjey.jpeg?q=70",
@@ -114,7 +114,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/f/7/h/xxl-riya-blue-klosia-original-imagghg2ufvshyfr.jpeg?q=70",
@@ -127,7 +127,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/2/b/b/xxl-20257o-blue-libas-original-imag6xze3wpu7w4h-bb.jpeg?q=70",
@@ -140,7 +140,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/kw2fki80/ethnic-set/k/i/k/xxl-201-jaipuri-collection-original-imag8tvaw4ddrtah.jpeg?q=70",
@@ -153,7 +153,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/l3t2fm80/ethnic-set/u/2/1/l-jk173-jai-kurties-original-imageugcbqk36gvg.jpeg?q=70",
@@ -166,7 +166,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/l47cu4w0/ethnic-set/m/o/c/xxl-noorimauve-stylum-original-imagf5sybg5a9kt6.jpeg?q=70",
@@ -179,7 +179,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/ku8pbbk0/kurta/9/k/r/xxl-ac2-danevart-original-imag7esftepgq4fm.jpeg?q=70",
@@ -192,7 +192,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/ethnic-set/m/m/a/s-sheks7041-khn-shewill-original-imagk83qhkktc3mc.jpeg?q=70",
@@ -205,7 +205,7 @@ export const kurtaPage1=[
         "size": "",
         "topLavelCategory": "women",
         "secondLavelCategory": "clothing",
-        "thirdLavelCategory": "kurtas"
+        "thirdLavelCategory": "women kurtas"
     },
     {
         "image": "https://rukminim1.flixcart.com/image/612/612/kve530w0/ethnic-set/m/h/g/xxl-fb0035pant-flamingo-blue-original-imag8at7d2pg2az3.jpeg?q=70",

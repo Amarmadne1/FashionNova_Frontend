@@ -2,6 +2,7 @@ import React from "react";
 
 import { useNavigate } from "react-router-dom";
 
+import { navigation } from "../../../config/navigationMenu";
 const HomeProductCard = ({ product }) => {
   const navigate = useNavigate();
 
