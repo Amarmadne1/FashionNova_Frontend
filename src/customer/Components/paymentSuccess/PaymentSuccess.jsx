@@ -8,7 +8,7 @@ import { getOrderById } from "../../../Redux/Customers/Order/Action";
 import OrderTraker from "../orders/OrderTraker";
 import AddressCard from "../adreess/AdreessCard";
 import { useParams } from "react-router-dom";
-import { removeCartItem} from "../../../Redux/Customers/Cart/Action";
+import { emptyCart, removeCartItem} from "../../../Redux/Customers/Cart/Action";
 import { getCart } from "../../../Redux/Customers/Cart/Action";
 const PaymentSuccess = () => {
   // razorpay_payment_link_reference_id
@@ -25,16 +25,12 @@ const PaymentSuccess = () => {
   const { order } = useSelector((store) => store);
   const {cart}=useSelector(store=>store);
   console.log("cart ",cart)
-  const handleRemoveItemFromCart = () => {
-    const data = { cartItemId: cart.cartItemId?.id, jwt };
-    dispatch(removeCartItem(data));
-  };
+
   useEffect(() => {
     dispatch(getCart(jwt));
-    handleRemoveItemFromCart();
-    console.log("remove cart items")
+    dispatch(emptyCart(jwt))
   }, [jwt]);
-  console.log("cart ",cart.cartItems)
+
   useEffect(() => {
     console.log("orderId",orderId)
     const urlParams = new URLSearchParams(window.location.search);
@@ -48,8 +44,7 @@ const PaymentSuccess = () => {
       const data = { orderId, paymentId, jwt };
       dispatch(updatePayment(data));
       dispatch(getOrderById(orderId));
-      const data1 = { cartItemId: cart.cartItems.id, jwt };
-    dispatch(removeCartItem(data1));
+      dispatch(emptyCart(jwt))
      
     }
   }, [orderId, paymentId]);

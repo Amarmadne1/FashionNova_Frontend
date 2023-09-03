@@ -20,6 +20,7 @@ import { getUser, logout } from "../../../Redux/Auth/Action";
 import { UserContext } from "../../../UserContext";
 import { useContext } from "react";
 import { getCart } from "../../../Redux/Customers/Cart/Action";
+import { API_BASE_URL } from "../../../config/api";
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
@@ -66,7 +67,7 @@ export default function Navigation() {
   const handleSearch = async () => {
     try {
       const encodedQuery = encodeURIComponent(searchText)
-      const response = await fetch(`http://localhost:5454/api/products/search?q=${encodedQuery}`);
+      const response = await fetch(`${API_BASE_URL}/api/products/search?q=${encodedQuery}`);
       const data = await response.json();
      // Update the search results state with the fetched data
      setSearchResults(data || []); // Update the search results state with the fetched data
@@ -96,6 +97,10 @@ export default function Navigation() {
     handleCloseUserMenu();
     navigate("/account/order");
   };
+  // const handleProfile = () => {
+  //   handleCloseUserMenu();
+  //   navigate("/account/profile");
+  // };
 
   const handleChange = (event) => {
     setSearchText(event.target.value);
@@ -489,7 +494,6 @@ export default function Navigation() {
                           "aria-labelledby": "basic-button",
                         }}
                       >
-                      
 
                         <MenuItem onClick={handleMyOrderClick}>
                           My Orders

@@ -393,7 +393,7 @@ if(!jwt){
             <Grid container spacing={7}>
               <Grid item xs={7}>
                 <div className="space-y-5">
-                  {customersProduct.product?.reviews.map((item, i) => (
+                  {customersProduct.product?.reviews.map((item) => (
                     <ProductReviewCard item={item} />
                   ))}
                 </div>
@@ -491,7 +491,7 @@ if(!jwt){
                     gap={2}
                   >
                     <Grid xs={2}>
-                      <p className="p-0">Avarage</p>
+                      <p className="p-0">Average</p>
                     </Grid>
                     <Grid xs={7}>
                       <LinearProgress

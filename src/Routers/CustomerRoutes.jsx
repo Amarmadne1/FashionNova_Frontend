@@ -20,6 +20,7 @@ import PaymentSuccess from "../customer/Components/paymentSuccess/PaymentSuccess
 import RateProduct from "../customer/Components/ReviewProduct/RateProduct";
 import NotFound from "../Pages/Notfound";
 import SearchProduct from "../customer/Components/Product/Product/SearchProduct";
+import MyAccountPage from "../customer/Components/Profile/MyAccount";
 
 const CustomerRoutes = () => {
     const location = useLocation();
@@ -49,6 +50,7 @@ const CustomerRoutes = () => {
         <Route path="/cart" element={<Cart />}></Route>
         <Route path="/searchproduct" element={<SearchProduct/>}></Route>
         <Route path="/account/order" element={<Order />}></Route>
+        <Route path="/account/profile" element={<MyAccountPage />}></Route>
         <Route path="/account/order/:orderId" element={<OrderDetails />}></Route>
         <Route path="/account/rate/:productId" element={<RateProduct />}></Route>
         <Route path="/checkout" element={<Checkout />}></Route>
